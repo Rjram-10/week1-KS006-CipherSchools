@@ -10,7 +10,7 @@ int main()
     // cout<<"The condition is false";
  
 
-    // int marks;
+    // int marks;  
     // cout<<"Enter the marks: ";
     // cin>>marks;
     // if(marks>=90)
